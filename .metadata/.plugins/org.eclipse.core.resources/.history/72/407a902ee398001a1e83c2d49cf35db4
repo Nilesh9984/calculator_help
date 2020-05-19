@@ -1,0 +1,39 @@
+package calculator;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.JTextArea;
+
+public class calculator {
+	
+	JFrame frame = new JFrame();
+	JPanel panel = new JPanel();
+	JTextArea textarea = new JTextArea(2,10);
+	
+	JButton Button1 = new JButton();
+	JButton Button2 = new JButton();
+	JButton Button3 = new JButton();
+	JButton Button4 = new JButton();
+	JButton Button5 = new JButton();
+	JButton Button6 = new JButton();
+	JButton Button7 = new JButton();
+	JButton Button8 = new JButton();
+	JButton Button9 = new JButton();
+	JButton Button0 = new JButton();
+	
+	JButton Buttonadd = new JButton();
+	JButton Buttonsub = new JButton();
+	JButton Buttonmul = new JButton();
+	JButton Buttondiv = new JButton();
+	JButton Buttonclear = new JButton();
+	
+	JButton Buttondot = new JButton();
+	JButton Buttonequal = new JButton();
+
+
+
+
+	
+
+}
